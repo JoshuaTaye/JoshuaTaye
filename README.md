@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoshuaTaye
 - 👀 I’m interested in figuring out this whole coding thing
-- 🌱 I’m currently learning HTML 5
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anything! I'd really appreciate some help actually :)
 - 📫 How to reach me at joshua_taye on instagram and tayejoshua4 at telegram
 
