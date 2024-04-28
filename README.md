@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoshuaTay
+- 👋 Hi, I’m @JoshuaTaye
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on anything! I'd really appreciate some help actually :)
 - 📫 How to reach me at joshua_taye on instagram and tayejoshua4 at telegram
