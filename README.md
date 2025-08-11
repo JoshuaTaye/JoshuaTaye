@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JoshuaTaye
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on anything! 
 - 📫 you can reach me at joshua_taye on instagram and tayejoshua4 at telegram
 
 <!---
